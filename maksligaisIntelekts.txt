@@ -1,0 +1,4 @@
+Kas ir mākslīgais intelekts?
+MI ir sistēmas spēja pareizi interpretēt ārējos datus un modelēt cilvēkiem līdzīgas uzvedības, piemēram, saprātīgu izturēšanos, mācīšanās spējas, plānošanu un radošumu.
+MI ļauj tehniskajām sistēmām analizēt apkārtējos apstākļus, strādāt ar uztverto un risināt problēmas, lai — zināmā mērā neatkarīgi — sasniegtu noteiktus mērķus. Dators saņem datus (jau sagatavotus vai apkopotus), ar savu sensoru starpniecību, piemēram, kameru, tos apstrādā un veic darbības.
+MI sistēmas ir spējīgas izrādīt intelektisku rīcību, analizējot iepriekšējo darbību ietekmi un strādājot autonomi.
